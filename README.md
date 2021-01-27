@@ -1,2 +1,2 @@
 # sample
-This is a sample repo
+This is a readme for class
